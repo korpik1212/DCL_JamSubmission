@@ -1,0 +1,59 @@
+{
+    "entityNumberCounter": 13,
+    "entities": [
+        {
+            "hierarchyOrder": 0.0,
+            "name": "lv1_wall(1)",
+            "uniqueNumber": 10,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.0,\"y\":2.5,\"z\":0.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":16.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "lv1_wall(2)",
+            "uniqueNumber": 11,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":16.0,\"y\":2.5,\"z\":8.0},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":-0.7071068286895752},\"scale\":{\"x\":16.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Cube Entity",
+            "uniqueNumber": 12,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.0,\"y\":2.5,\"z\":16.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":16.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        }
+    ]
+}

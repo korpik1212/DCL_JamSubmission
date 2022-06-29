@@ -1,0 +1,473 @@
+{
+    "entityNumberCounter": 65,
+    "entities": [
+        {
+            "hierarchyOrder": 21.0,
+            "name": "lv0_wall(1)",
+            "uniqueNumber": 10,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.331000328063965,\"y\":2.5,\"z\":0.11800000071525574},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":15.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 25.0,
+            "name": "lv0_wall(2)",
+            "uniqueNumber": 11,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.916000366210938,\"y\":2.5,\"z\":7.986000061035156},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":-0.7071068286895752},\"scale\":{\"x\":16.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 24.0,
+            "name": "lv0_wall(3)",
+            "uniqueNumber": 12,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.388999938964844,\"y\":2.5,\"z\":15.901000022888184},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":15.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 23.0,
+            "name": "lv0_portal(3)",
+            "uniqueNumber": 14,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":1.5,\"z\":4.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.5,\"y\":0.5,\"z\":0.5}}"
+                },
+                {
+                    "name": "sphereShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 22.0,
+            "name": "lv0_portal(1)",
+            "uniqueNumber": 15,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":1.5,\"z\":8.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.5,\"y\":0.5,\"z\":0.5}}"
+                },
+                {
+                    "name": "sphereShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 11.0,
+            "name": "lv0_portal(2)",
+            "uniqueNumber": 16,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":1.5,\"z\":12.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.5,\"y\":0.5,\"z\":0.5}}"
+                },
+                {
+                    "name": "sphereShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 20.0,
+            "name": "Mi Conv.com  key",
+            "uniqueNumber": 17,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.430999755859375,\"y\":1.3289999961853028,\"z\":5.4120001792907719},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.009999999776482582,\"y\":0.009999999776482582,\"z\":0.009999999776482582}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 6.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 22,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 13.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 26,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 19.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 27,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 10.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 28,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 15.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 29,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 17.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 30,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 3.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 31,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 5.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 32,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 8.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 33,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 34,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 9.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 35,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 7.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 36,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 16.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 37,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 4.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 38,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 12.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 39,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 18.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 40,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 42,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 45,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 14.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 46,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.208000183105469,\"y\":1.2230000495910645,\"z\":6.165999889373779},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        }
+    ]
+}

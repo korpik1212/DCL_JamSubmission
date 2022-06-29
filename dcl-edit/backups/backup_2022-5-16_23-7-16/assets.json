@@ -1,0 +1,39 @@
+{
+    "gltfAssets": [
+        {
+            "name": "Mi Conv.com  bridge Wooden Rails",
+            "id": "80a93a2d-da64-4c2e-af22-e9230773218e",
+            "gltfPath": "models/s/MiConv.com__bridgeWoodenRails.glb"
+        },
+        {
+            "name": "Stone Slab Small 01",
+            "id": "acc72180-ca77-4cda-b077-f860e075185e",
+            "gltfPath": "5a8b0922-0eee-4e0e-bbb3-4134616fef76/StoneSlabSmall_01/StoneSlabSmall_01.glb"
+        },
+        {
+            "name": "Bananas 01",
+            "id": "7c863aa0-5acf-47ea-a2bc-caba39075bc3",
+            "gltfPath": "adabf424-1469-4087-bb7d-5614c924ea12/Bananas_01/Bananas_01.glb"
+        },
+        {
+            "name": "Jungle Plant 09",
+            "id": "a0cfbace-b3a2-4644-8f66-abef43641f18",
+            "gltfPath": "b0f2c844-e0ba-443d-9f32-e8ad3c555c6c/JunglePlant_09/JunglePlant_09.glb"
+        },
+        {
+            "name": "Floor Base Grass 02",
+            "id": "cc54d991-2187-409d-9930-f51de3f00ff1",
+            "gltfPath": "ea013d0a-8f70-44ca-be3d-706d46cb7ed2/FloorBaseGrass_02/FloorBaseGrass_02.glb"
+        },
+        {
+            "name": "Door Fantasy",
+            "id": "c7db7726-2773-4300-a6d0-ea2821a84d60",
+            "gltfPath": "ed36149f-76c5-45c4-a678-d4b31c4ed9ca/models/Door_Fantasy.glb"
+        },
+        {
+            "name": "Mi Conv.com  key",
+            "id": "ddecc329-9281-4e5b-82a8-99dfeb45ae39",
+            "gltfPath": "s/MiConv.com__key.glb"
+        }
+    ]
+}

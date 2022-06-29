@@ -1,0 +1,77 @@
+{
+    "entityNumberCounter": 6,
+    "entities": [
+        {
+            "hierarchyOrder": 2.0,
+            "name": "Default Sphere",
+            "uniqueNumber": 2,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.840000152587891,\"y\":1.8300000429153443,\"z\":7.25},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "sphereShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 3.0,
+            "name": "Default Cube",
+            "uniqueNumber": 1,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.090000152587891,\"y\":0.5,\"z\":2.9100000858306886},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":-0.6965585350990295,\"w\":0.7174999713897705},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Cube Entity2",
+            "uniqueNumber": 4,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.785999774932861,\"y\":1.0,\"z\":3.5},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Cube Entity",
+            "uniqueNumber": 5,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.785999774932861,\"y\":1.0,\"z\":5.035999774932861},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        }
+    ]
+}

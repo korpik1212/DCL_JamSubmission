@@ -1,0 +1,125 @@
+{
+    "entityNumberCounter": 17,
+    "entities": [
+        {
+            "hierarchyOrder": 1.0,
+            "name": "lv0_wall(1)",
+            "uniqueNumber": 10,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.331000328063965,\"y\":2.5,\"z\":0.11800000071525574},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":15.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 5.0,
+            "name": "lv0_wall(2)",
+            "uniqueNumber": 11,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.916000366210938,\"y\":2.5,\"z\":7.986000061035156},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":-0.7071068286895752},\"scale\":{\"x\":16.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 4.0,
+            "name": "lv0_wall(3)",
+            "uniqueNumber": 12,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.0,\"y\":2.5,\"z\":16.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":16.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 3.0,
+            "name": "lv0_portal(3)",
+            "uniqueNumber": 14,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.21500015258789,\"y\":0.8140000104904175,\"z\":12.618000030517579},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.5,\"y\":0.5,\"z\":0.5}}"
+                },
+                {
+                    "name": "sphereShape",
+                    "specifics": ""
+                },
+                {
+                    "name": "material",
+                    "specifics": "{\"albedoColor\":{\"r\":0.0,\"g\":0.2554666996002197,\"b\":1.0,\"a\":1.0},\"emissiveColor\":{\"r\":0.18014806509017945,\"g\":0.3030959963798523,\"b\":0.5196580290794373,\"a\":1.0}}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "lv0_portal(1)",
+            "uniqueNumber": 15,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.21500015258789,\"y\":0.8140000104904175,\"z\":7.669000148773193},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.5,\"y\":0.5,\"z\":0.5}}"
+                },
+                {
+                    "name": "sphereShape",
+                    "specifics": ""
+                },
+                {
+                    "name": "material",
+                    "specifics": "{\"albedoColor\":{\"r\":0.04053868353366852,\"g\":0.09601268917322159,\"b\":0.04563049599528313,\"a\":1.0},\"emissiveColor\":{\"r\":0.13854043185710908,\"g\":0.8666867017745972,\"b\":0.08474265038967133,\"a\":1.0}}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "lv0_portal(2)",
+            "uniqueNumber": 16,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.21500015258789,\"y\":0.8140000104904175,\"z\":2.867000102996826},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.5,\"y\":0.5,\"z\":0.5}}"
+                },
+                {
+                    "name": "sphereShape",
+                    "specifics": ""
+                },
+                {
+                    "name": "material",
+                    "specifics": "{\"albedoColor\":{\"r\":0.8802073001861572,\"g\":0.1838654726743698,\"b\":0.1838654726743698,\"a\":1.0},\"emissiveColor\":{\"r\":0.956824004650116,\"g\":0.10206113010644913,\"b\":0.45718660950660708,\"a\":1.0}}"
+                }
+            ]
+        }
+    ]
+}

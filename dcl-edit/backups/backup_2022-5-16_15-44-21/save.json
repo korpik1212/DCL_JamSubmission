@@ -1,0 +1,23 @@
+{
+    "entityNumberCounter": 7,
+    "entities": [
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Mi Conv.com  bridge Wooden Rails",
+            "uniqueNumber": 6,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":0.0,\"y\":0.0,\"z\":4.25},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.10000000149011612,\"y\":0.10000000149011612,\"z\":0.10000000149011612}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"80a93a2d-da64-4c2e-af22-e9230773218e\"}"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "gltfAssets": [
+        {
+            "name": "Mi Conv.com  bridge Wooden Rails",
+            "id": "80a93a2d-da64-4c2e-af22-e9230773218e",
+            "gltfPath": "models/s/MiConv.com__bridgeWoodenRails.glb"
+        },
+        {
+            "name": "Stone Slab Small 01",
+            "id": "acc72180-ca77-4cda-b077-f860e075185e",
+            "gltfPath": "5a8b0922-0eee-4e0e-bbb3-4134616fef76/StoneSlabSmall_01/StoneSlabSmall_01.glb"
+        },
+        {
+            "name": "Bananas 01",
+            "id": "7c863aa0-5acf-47ea-a2bc-caba39075bc3",
+            "gltfPath": "adabf424-1469-4087-bb7d-5614c924ea12/Bananas_01/Bananas_01.glb"
+        },
+        {
+            "name": "Jungle Plant 09",
+            "id": "a0cfbace-b3a2-4644-8f66-abef43641f18",
+            "gltfPath": "b0f2c844-e0ba-443d-9f32-e8ad3c555c6c/JunglePlant_09/JunglePlant_09.glb"
+        },
+        {
+            "name": "Floor Base Grass 02",
+            "id": "cc54d991-2187-409d-9930-f51de3f00ff1",
+            "gltfPath": "ea013d0a-8f70-44ca-be3d-706d46cb7ed2/FloorBaseGrass_02/FloorBaseGrass_02.glb"
+        },
+        {
+            "name": "Door Fantasy",
+            "id": "c7db7726-2773-4300-a6d0-ea2821a84d60",
+            "gltfPath": "ed36149f-76c5-45c4-a678-d4b31c4ed9ca/models/Door_Fantasy.glb"
+        },
+        {
+            "name": "Mi Conv.com  key",
+            "id": "ddecc329-9281-4e5b-82a8-99dfeb45ae39",
+            "gltfPath": "s/MiConv.com__key.glb"
+        },
+        {
+            "name": "QR Poster",
+            "id": "c1c01b9e-c194-4198-81ae-0c5da83a814e",
+            "gltfPath": "1206a867-819a-40ce-a397-ee8dce04d35a/models/QR_Poster.glb"
+        },
+        {
+            "name": "Purple Gallery Info",
+            "id": "de4cce82-b27f-4c4f-8fe5-24c36a90b998",
+            "gltfPath": "38f933f4-fe86-45fe-921a-e6824406cbe0/models/PurpleGalleryInfo.glb"
+        },
+        {
+            "name": "Red Gallery Info",
+            "id": "a3892803-091e-4161-bb87-45956404af73",
+            "gltfPath": "a0e68c67-eecc-48bc-8827-d3e6bee27d40/models/RedGalleryInfo.glb"
+        },
+        {
+            "name": "Trigger Area",
+            "id": "c0536bb9-be57-45ac-966d-3636794463df",
+            "gltfPath": "1ab2733f-1782-4521-9eda-6aa8ad684277/models/TriggerArea.glb"
+        },
+        {
+            "name": "Sign Circle",
+            "id": "4e8dc246-34b3-436f-b5ab-d8efe78bc519",
+            "gltfPath": "80e32415-fcd9-40d2-a322-f046d8249eb4/models/signpost/Sign_Circle.glb"
+        },
+        {
+            "name": "Click Area Dummy",
+            "id": "cdf49361-3377-4b1d-a8b0-7c16a29bc559",
+            "gltfPath": "846479b0-75d3-450d-bbd6-7e6b3355a7a2/models/ClickAreaDummy.glb"
+        },
+        {
+            "name": "Chest Genesis",
+            "id": "156e9c56-ec1a-4722-8a3a-48d852451f8b",
+            "gltfPath": "dd9fb5a1-7530-4e07-ac3f-3e50572c239f/models/Chest_Genesis.glb"
+        },
+        {
+            "name": "Sword 01",
+            "id": "cf97cc11-d42f-490b-b754-144b9f72e80f",
+            "gltfPath": "6631a0b6-3eb3-4cca-b777-95c5083ead08/Sword_01/Sword_01.glb"
+        },
+        {
+            "name": "Floor Fantasy Rocks 01",
+            "id": "3c19d0e8-5c21-4981-a71b-4c6155bce889",
+            "gltfPath": "9be6610f-cf2b-47fc-a5bd-c9aa62ea6f8e/FloorFantasyRocks_01/FloorFantasyRocks_01.glb"
+        },
+        {
+            "name": "Fence Stone Block 02",
+            "id": "10c45633-b1bf-4835-8814-18f7b71bb8fe",
+            "gltfPath": "dc33fcb8-1405-4226-a5c4-a38513ac6605/Fence_Stone_Block_02/Fence_Stone_Block_02.glb"
+        },
+        {
+            "name": "Wall Stone Small",
+            "id": "fbaa1395-e6a1-4010-ab46-c1b25f6be17c",
+            "gltfPath": "22215c3d-7298-4fe5-b9cf-8043ad3b552b/Wall_Stone_Small/Wall_Stone_Small.glb"
+        },
+        {
+            "name": "Floor Square 01",
+            "id": "98649af8-e2ff-44e1-97ef-3e841a6552fb",
+            "gltfPath": "357df3ed-af64-4721-ac6f-2701bcb0294e/FloorSquare_01/FloorSquare_01.glb"
+        },
+        {
+            "name": "Light Corner 02",
+            "id": "619028f8-7394-4fdf-8172-eedcc0585f79",
+            "gltfPath": "0fbe386e-cc30-4ce9-8eb6-d78101ff090b/LightCorner_02/LightCorner_02.glb"
+        },
+        {
+            "name": "Sign Arrow",
+            "id": "27f855db-efe7-4670-b973-a62b338893b0",
+            "gltfPath": "28352c3a-cc20-4ab4-b4b8-a4562a6b0d4d/models/signpost/Sign_Arrow.glb"
+        },
+        {
+            "name": "Light Block 01",
+            "id": "b2793015-9760-40a0-a255-bd01cb4e1235",
+            "gltfPath": "2a9fe2f4-255d-490f-8e4f-d7ed758fc32e/LightBlock_01/LightBlock_01.glb"
+        },
+        {
+            "name": "Light Cross 01",
+            "id": "e7bf4a02-46db-4f04-8c5f-64eef9ccf9ed",
+            "gltfPath": "668d0805-3e9d-447b-8d07-27d4862f4693/LightCross_01/LightCross_01.glb"
+        },
+        {
+            "name": "Sign Square",
+            "id": "cf0a6468-31cf-438e-8cb8-658864f16f30",
+            "gltfPath": "7e78cd70-5414-4ec4-be5f-198ec9879a5e/models/signpost/Sign_Square.glb"
+        },
+        {
+            "name": "Light Block 02",
+            "id": "949d5d31-7b3d-400f-bf05-040299706f9a",
+            "gltfPath": "dba7c6c8-4b41-409e-88b3-84178ec417ce/LightBlock_02/LightBlock_02.glb"
+        },
+        {
+            "name": "Light Cross 02",
+            "id": "7ad1bb1d-9b69-4581-89fe-f8da82312b1d",
+            "gltfPath": "e6f54515-1149-4c8d-af15-d59ffd7d27a5/LightCross_02/LightCross_02.glb"
+        },
+        {
+            "name": "Light Corner 01",
+            "id": "682948c8-5acf-4812-a394-9018971d1d82",
+            "gltfPath": "e95dd605-0f13-40a3-a647-20d3da402725/LightCorner_01/LightCorner_01.glb"
+        },
+        {
+            "name": "Light Cube 02",
+            "id": "7a2f622d-21d8-4dd6-a0e6-92accb57fff0",
+            "gltfPath": "3b5a99ec-0ae0-4f61-ae20-2fc511acdd12/LightCube_02/LightCube_02.glb"
+        },
+        {
+            "name": "Floor Sci Fi Panel 02",
+            "id": "df4048c6-2866-4978-9714-d91b02f83e75",
+            "gltfPath": "06f65cfc-1013-4506-930f-ff759561185d/FloorSciFiPanel_02/FloorSciFiPanel_02.glb"
+        },
+        {
+            "name": "Concrete Wall",
+            "id": "e8139395-8e3b-4abe-984f-1e41511aaaf8",
+            "gltfPath": "53aa3052-ccd7-4a05-be3f-f840acbff99e/Concrete_Wall.glb"
+        },
+        {
+            "name": "Grass Patch Large 01",
+            "id": "f3c3487a-8e87-4ee3-9e9a-90dbb6b30049",
+            "gltfPath": "8e71706b-3a3d-4255-b888-d86eb6318278/GrassPatchLarge_01/GrassPatchLarge_01.glb"
+        },
+        {
+            "name": "Tree Sycamore 03",
+            "id": "285f194f-d9b7-4e44-a841-4da17b99d6c7",
+            "gltfPath": "fd4168d3-1040-458d-b90e-fe5f441d593b/TreeSycamore_03/TreeSycamore_03.glb"
+        },
+        {
+            "name": "Gold Key Genesis",
+            "id": "7a778706-68fb-4ba5-9048-b99cfef48125",
+            "gltfPath": "64c448a3-f69c-4bce-b9f4-5bb5f0669084/models/Gold_Key_Genesis.glb"
+        },
+        {
+            "name": "Face Access Card",
+            "id": "6064713c-f2cd-4ba2-8198-30b2d08abf1f",
+            "gltfPath": "a56ac3e0-aef8-48b9-b55b-844b3fa77056/models/Face_Access_Card.glb"
+        },
+        {
+            "name": "Bronze Key Genesis",
+            "id": "564cce3c-73bc-496f-83b0-1a9f58593d8a",
+            "gltfPath": "c37b52bf-204c-4c8f-aee5-3249129b8141/models/Bronze_Key_Genesis.glb"
+        },
+        {
+            "name": "Coin Mana 01",
+            "id": "d5072ed0-dfa3-4922-855f-e2b6a7522fcd",
+            "gltfPath": "6d34e8ad-f4e6-482c-8b86-5b7169854a97/CoinMana_01/CoinMana_01.glb"
+        },
+        {
+            "name": "Floor Base Grass 01",
+            "id": "f055b60b-1c2e-49ac-8d68-8353a3898e0f",
+            "gltfPath": "c9b17021-765c-4d9a-9966-ce93a9c323d1/FloorBaseGrass_01/FloorBaseGrass_01.glb"
+        },
+        {
+            "name": "Module Stone Straight 01",
+            "id": "96cffd0a-07a0-4790-bd42-8e5841d3c906",
+            "gltfPath": "5ed9c4c0-8a9c-4c0d-814c-d40354987f2b/Module_Stone_Straight_01/Module_Stone_Straight_01.glb"
+        },
+        {
+            "name": "Chest Fantasy",
+            "id": "393b12d7-7450-4ef9-9d5a-d09c0a8a9406",
+            "gltfPath": "ff9257ec-9d62-404f-97c7-cf19c4035761/models/Chest_Fantasy.glb"
+        },
+        {
+            "name": "Trunk 02",
+            "id": "ca45e34e-80f1-4ddf-9f56-4347f957d684",
+            "gltfPath": "402e552d-4969-4664-8fcb-4e986091a189/Trunk_02/Trunk_02.glb"
+        },
+        {
+            "name": "Air Vent Curve 01",
+            "id": "2b3b3cab-d452-4d45-94bf-5b0880ff56ae",
+            "gltfPath": "57773f54-a786-4e56-a14e-8dcbf0d1c639/AirVent_Curve_01/AirVent_Curve_01.glb"
+        },
+        {
+            "name": "Air Vent Straight Long 01",
+            "id": "e6a5304a-e9d2-415f-a029-89ae1d5d3e1e",
+            "gltfPath": "6ac60649-7f9d-4426-9329-e73275e63472/AirVent_Straight_Long_01/AirVent_Straight_Long_01.glb"
+        },
+        {
+            "name": "Charger 01",
+            "id": "aa5641b1-5f94-4636-bd47-4d8e00a2c9e6",
+            "gltfPath": "feb2e4fd-c6f2-41ae-9968-0f3d87e8b55f/Charger_01/Charger_01.glb"
+        },
+        {
+            "name": "discord",
+            "id": "e0d009ff-82ae-4b3d-88a1-8ebaf503e7a3",
+            "gltfPath": "8dcc2ca4-5e30-4488-9731-be24f0c041fd/models/discord.glb"
+        },
+        {
+            "name": "discord bnw",
+            "id": "0665eeb1-3695-448a-a8e5-21df6e0b84cd",
+            "gltfPath": "8dcc2ca4-5e30-4488-9731-be24f0c041fd/models/discord_bnw.glb"
+        }
+    ]
+}

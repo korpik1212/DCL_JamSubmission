@@ -1,0 +1,23 @@
+{
+    "entityNumberCounter": 11,
+    "entities": [
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Cube Entity",
+            "uniqueNumber": 10,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.952000141143799,\"y\":0.4169999957084656,\"z\":0.13899999856948853},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":9.661999702453614,\"y\":1.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        }
+    ]
+}

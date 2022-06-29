@@ -1,0 +1,167 @@
+{
+    "entityNumberCounter": 71,
+    "entities": [
+        {
+            "hierarchyOrder": 6.0,
+            "name": "lv0_wall(1)",
+            "uniqueNumber": 10,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.331000328063965,\"y\":2.5,\"z\":0.11800000071525574},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":15.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 8.0,
+            "name": "lv0_wall(2)",
+            "uniqueNumber": 11,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.916000366210938,\"y\":2.5,\"z\":7.986000061035156},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":-0.7071068286895752},\"scale\":{\"x\":16.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 7.0,
+            "name": "lv0_wall(3)",
+            "uniqueNumber": 12,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.388999938964844,\"y\":2.5,\"z\":15.901000022888184},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":15.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "Jungle Plant 09",
+            "uniqueNumber": 65,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.297520637512207,\"y\":0.0,\"z\":4.939051628112793},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"a0cfbace-b3a2-4644-8f66-abef43641f18\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 3.0,
+            "name": "Jungle Plant 09",
+            "uniqueNumber": 66,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.297520637512207,\"y\":0.0,\"z\":7.751224040985107},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"a0cfbace-b3a2-4644-8f66-abef43641f18\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 5.0,
+            "name": "Jungle Plant 09",
+            "uniqueNumber": 67,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.297520637512207,\"y\":0.0,\"z\":9.444664001464844},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"a0cfbace-b3a2-4644-8f66-abef43641f18\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Jungle Plant 09",
+            "uniqueNumber": 68,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.727052688598633,\"y\":0.0,\"z\":9.444664001464844},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"a0cfbace-b3a2-4644-8f66-abef43641f18\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 4.0,
+            "name": "Jungle Plant 09",
+            "uniqueNumber": 69,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.727052688598633,\"y\":0.0,\"z\":7.150805473327637},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"a0cfbace-b3a2-4644-8f66-abef43641f18\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Jungle Plant 09",
+            "uniqueNumber": 70,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.727052688598633,\"y\":0.0,\"z\":5.484428882598877},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"a0cfbace-b3a2-4644-8f66-abef43641f18\"}"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "entityNumberCounter": 13,
+    "entities": [
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Cube Entity",
+            "uniqueNumber": 10,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.0,\"y\":2.4030001163482668,\"z\":0.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":16.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "Cube Entity",
+            "uniqueNumber": 11,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.0,\"y\":2.4030001163482668,\"z\":2.4639999866485597},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.07845910638570786,\"w\":0.9969173669815064},\"scale\":{\"x\":16.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Cube Entity",
+            "uniqueNumber": 12,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.0,\"y\":2.4030001163482668,\"z\":16.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":16.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        }
+    ]
+}

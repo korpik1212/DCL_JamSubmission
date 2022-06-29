@@ -1,0 +1,77 @@
+{
+    "entityNumberCounter": 10,
+    "entities": [
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Mi Conv.com  bridge Wooden Rails",
+            "uniqueNumber": 6,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":0.0,\"y\":0.0,\"z\":4.25},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.10000000149011612,\"y\":0.10000000149011612,\"z\":0.10000000149011612}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"80a93a2d-da64-4c2e-af22-e9230773218e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 3.0,
+            "name": "Mi Conv.com  bridge Wooden Rails",
+            "uniqueNumber": 7,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":5.4120001792907719,\"y\":1.25,\"z\":5.4120001792907719},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"80a93a2d-da64-4c2e-af22-e9230773218e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "Mi Conv.com  bridge Wooden Rails",
+            "uniqueNumber": 8,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":2.1730570793151857,\"y\":0.0,\"z\":0.730560302734375},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"80a93a2d-da64-4c2e-af22-e9230773218e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Bananas 01",
+            "uniqueNumber": 9,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":5.4120001792907719,\"y\":0.9980000257492065,\"z\":5.4120001792907719},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7c863aa0-5acf-47ea-a2bc-caba39075bc3\"}"
+                }
+            ]
+        }
+    ]
+}

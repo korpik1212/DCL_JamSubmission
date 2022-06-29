@@ -1,0 +1,207 @@
+{
+    "entityNumberCounter": 80,
+    "entities": [
+        {
+            "hierarchyOrder": 6.0,
+            "name": "lv0_wall(1)",
+            "uniqueNumber": 10,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.331000328063965,\"y\":2.5,\"z\":0.11800000071525574},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":15.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 10.0,
+            "name": "lv0_wall(2)",
+            "uniqueNumber": 11,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.850776672363282,\"y\":2.5,\"z\":7.986000061035156},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":-0.7071068286895752},\"scale\":{\"x\":16.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 9.0,
+            "name": "lv0_wall(3)",
+            "uniqueNumber": 12,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.388999938964844,\"y\":2.5,\"z\":15.901000022888184},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":15.0,\"y\":5.0,\"z\":0.15000000596046449}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 8.0,
+            "name": "lv0_portal(1)",
+            "uniqueNumber": 71,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":1.7000000476837159,\"z\":4.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.75,\"y\":0.75,\"z\":0.75}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 7.0,
+            "name": "lv0_portal(3)",
+            "uniqueNumber": 72,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":1.7000000476837159,\"z\":12.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.75,\"y\":0.75,\"z\":0.75}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 5.0,
+            "name": "lv0_portal(2)",
+            "uniqueNumber": 73,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":1.7000000476837159,\"z\":8.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.75,\"y\":0.75,\"z\":0.75}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 4.0,
+            "name": "lv1_return",
+            "uniqueNumber": 74,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":1.3550000190734864,\"y\":1.8650000095367432,\"z\":7.201000213623047},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.5400000214576721,\"y\":1.0,\"z\":0.5630000233650208}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 3.0,
+            "name": "QR Poster",
+            "uniqueNumber": 76,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.745914936065674,\"y\":0.0,\"z\":7.979294776916504},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"c1c01b9e-c194-4198-81ae-0c5da83a814e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "lv0_infobox",
+            "uniqueNumber": 77,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.615927696228027,\"y\":1.6776591539382935,\"z\":0.35155820846557619},\"rot\":{\"x\":0.0,\"y\":0.01919744350016117,\"z\":0.0,\"w\":0.9998157024383545},\"scale\":{\"x\":0.7252976298332214,\"y\":0.2178420126438141,\"z\":0.4830000102519989}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"de4cce82-b27f-4c4f-8fe5-24c36a90b998\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "lv0_reset",
+            "uniqueNumber": 78,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":5.4120001792907719,\"y\":0.6690000295639038,\"z\":15.46399974822998},\"rot\":{\"x\":0.0,\"y\":0.9999862909317017,\"z\":0.0,\"w\":0.005236081313341856},\"scale\":{\"x\":0.5379999876022339,\"y\":0.36500000953674319,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"a3892803-091e-4161-bb87-45956404af73\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "lv1_deadlyobstacle(1)",
+            "uniqueNumber": 79,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.574000358581543,\"y\":2.0739998817443849,\"z\":2.9570000171661379},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.10000000149011612,\"y\":5.0,\"z\":0.10000000149011612}}"
+                },
+                {
+                    "name": "boxShape",
+                    "specifics": ""
+                },
+                {
+                    "name": "material",
+                    "specifics": "{\"albedoColor\":{\"r\":1.0,\"g\":0.0,\"b\":0.0,\"a\":1.0},\"emissiveColor\":{\"r\":0.0,\"g\":0.0,\"b\":0.0,\"a\":1.0}}"
+                }
+            ]
+        }
+    ]
+}
